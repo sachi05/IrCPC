@@ -1,5 +1,5 @@
 """
-Solution to Question 2 of Problem Set 2 of Irish Collegiate Programming Contest
+Solution to Question 2 of Problem Set 2017 of Irish Collegiate Programming Contest
 Variables Used:
     l : List of powers of ten till 3.
     choice : Number of inputs that user chooses
